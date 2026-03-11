@@ -1,4 +1,4 @@
-# **Librairie en Ligne - E-commerce PHP**
+²# **Librairie en Ligne - E-commerce PHP**
 
 Une application web de e-commerce spécialisée dans la vente de livres d'occasion, développée en PHP avec une base de données MySQL.
 
@@ -78,10 +78,3 @@ Une application web de e-commerce spécialisée dans la vente de livres d'occasi
 
 7. Accéder à l'application
     http://localhost/ecommerce_php/src/pages/login.page.php
-
-
-## 🧑‍💻 Authors
-   - [Hugo Flandrin](https://www.linkedin.com/in/hugo-flandrin-104476294/)
-   - [Dorian Tatoulian](https://www.linkedin.com/in/dorian-tatoulian/)
-   - [Amadou Diop](https://www.linkedin.com/in/amadou-diop-3a5258316/)
-   - [Aurélien Branco](https://www.linkedin.com/in/aur%C3%A9lien-branco-9a187032a/)
